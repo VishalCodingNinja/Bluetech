@@ -1,2 +1,1 @@
-it is just a poc 
-how to make websites
+Poc of few js functionality
